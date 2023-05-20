@@ -1,6 +1,0 @@
-D:\OneDrive\Desktop\Diploma - Software & Web Developer\Personal Folder - Xavier Toledo\C# & .NET - Part 1\Basic_C#_Programs\myConsoleProject\obj\Debug\myConsoleProject.csproj.AssemblyReference.cache
-D:\OneDrive\Desktop\Diploma - Software & Web Developer\Personal Folder - Xavier Toledo\C# & .NET - Part 1\Basic_C#_Programs\myConsoleProject\obj\Debug\myConsoleProject.csproj.CoreCompileInputs.cache
-D:\OneDrive\Desktop\Diploma - Software & Web Developer\Personal Folder - Xavier Toledo\C# & .NET - Part 1\Basic_C#_Programs\myConsoleProject\bin\Debug\myConsoleProject.exe
-D:\OneDrive\Desktop\Diploma - Software & Web Developer\Personal Folder - Xavier Toledo\C# & .NET - Part 1\Basic_C#_Programs\myConsoleProject\bin\Debug\myConsoleProject.pdb
-D:\OneDrive\Desktop\Diploma - Software & Web Developer\Personal Folder - Xavier Toledo\C# & .NET - Part 1\Basic_C#_Programs\myConsoleProject\obj\Debug\myConsoleProject.exe
-D:\OneDrive\Desktop\Diploma - Software & Web Developer\Personal Folder - Xavier Toledo\C# & .NET - Part 1\Basic_C#_Programs\myConsoleProject\obj\Debug\myConsoleProject.pdb
