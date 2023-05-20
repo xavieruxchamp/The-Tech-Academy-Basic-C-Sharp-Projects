@@ -1,0 +1,6 @@
+D:\OneDrive\Desktop\Diploma - Software & Web Developer\Personal Folder - Xavier Toledo\C# & .NET - Part 1\Basic_C#_Programs\WelcomePage\bin\Debug\WelcomePage.exe
+D:\OneDrive\Desktop\Diploma - Software & Web Developer\Personal Folder - Xavier Toledo\C# & .NET - Part 1\Basic_C#_Programs\WelcomePage\bin\Debug\WelcomePage.pdb
+D:\OneDrive\Desktop\Diploma - Software & Web Developer\Personal Folder - Xavier Toledo\C# & .NET - Part 1\Basic_C#_Programs\WelcomePage\obj\Debug\WelcomePage.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Diploma - Software & Web Developer\Personal Folder - Xavier Toledo\C# & .NET - Part 1\Basic_C#_Programs\WelcomePage\obj\Debug\WelcomePage.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Diploma - Software & Web Developer\Personal Folder - Xavier Toledo\C# & .NET - Part 1\Basic_C#_Programs\WelcomePage\obj\Debug\WelcomePage.exe
+D:\OneDrive\Desktop\Diploma - Software & Web Developer\Personal Folder - Xavier Toledo\C# & .NET - Part 1\Basic_C#_Programs\WelcomePage\obj\Debug\WelcomePage.pdb
