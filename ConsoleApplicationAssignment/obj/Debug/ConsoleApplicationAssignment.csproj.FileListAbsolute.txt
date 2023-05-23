@@ -1,0 +1,6 @@
+D:\Basic_C#_Programs\ConsoleApplicationAssignment\obj\Debug\ConsoleApplicationAssignment.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\ConsoleApplicationAssignment\obj\Debug\ConsoleApplicationAssignment.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\ConsoleApplicationAssignment\bin\Debug\ConsoleApplicationAssignment.exe
+D:\Basic_C#_Programs\ConsoleApplicationAssignment\bin\Debug\ConsoleApplicationAssignment.pdb
+D:\Basic_C#_Programs\ConsoleApplicationAssignment\obj\Debug\ConsoleApplicationAssignment.exe
+D:\Basic_C#_Programs\ConsoleApplicationAssignment\obj\Debug\ConsoleApplicationAssignment.pdb
