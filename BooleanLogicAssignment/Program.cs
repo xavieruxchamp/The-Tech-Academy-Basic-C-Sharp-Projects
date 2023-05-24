@@ -9,9 +9,11 @@ namespace BooleanLogicAssignment
         static void Main(string[] args)
         {
 
-        //Basic approval program for car insurance to determine whether or not the applicant is qualified for car insurance.
+            //Basic approval program for car insurance to determine whether or not the applicant is qualified for car insurance.
 
-        //Mandatory questions
+            Console.WriteLine("Welcome to our car insurance application");
+
+            //Mandatory questions
 
             Console.WriteLine("What is your age?");
             string A = Console.ReadLine();
@@ -28,7 +30,7 @@ namespace BooleanLogicAssignment
 
             bool Age = Convert.ToInt32(A) > 15;
             bool Dui = D != "Yes";
-            bool Tickets = Convert.ToInt32(T) == 0;
+            bool Tickets = Convert.ToInt32(T) <= 3;
 
             //Printing the result of the boolean expressions
 
