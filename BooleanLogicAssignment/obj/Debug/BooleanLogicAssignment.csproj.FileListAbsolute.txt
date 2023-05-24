@@ -1,0 +1,6 @@
+D:\Basic_C#_Programs\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.exe
+D:\Basic_C#_Programs\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.pdb
+D:\Basic_C#_Programs\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.exe
+D:\Basic_C#_Programs\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.pdb
