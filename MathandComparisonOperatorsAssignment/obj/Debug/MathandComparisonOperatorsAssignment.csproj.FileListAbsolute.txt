@@ -1,0 +1,6 @@
+D:\Basic_C#_Programs\MathandComparisonOperatorsAssignment\obj\Debug\MathandComparisonOperatorsAssignment.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\MathandComparisonOperatorsAssignment\obj\Debug\MathandComparisonOperatorsAssignment.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\MathandComparisonOperatorsAssignment\bin\Debug\MathandComparisonOperatorsAssignment.exe
+D:\Basic_C#_Programs\MathandComparisonOperatorsAssignment\bin\Debug\MathandComparisonOperatorsAssignment.pdb
+D:\Basic_C#_Programs\MathandComparisonOperatorsAssignment\obj\Debug\MathandComparisonOperatorsAssignment.exe
+D:\Basic_C#_Programs\MathandComparisonOperatorsAssignment\obj\Debug\MathandComparisonOperatorsAssignment.pdb
