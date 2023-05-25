@@ -11,7 +11,7 @@ namespace BranchingAssignment
 
         //Welcome for a shipping company
 
-            Console.WriteLine("Welcome to Package Express. Please follow the instuctions below.");
+            Console.WriteLine("Welcome to Package Express!\n\n" + "Please follow the instuctions below:\n");
 
         //Requesting the weight of the pacjage
 
@@ -37,12 +37,15 @@ namespace BranchingAssignment
                 //Calculate dimensions
                 int dimensions = width * heigth * length;
 
+                // Check if dimensions are greater than 50
+                bool isTooBig = dimensions > 50;
+
                 // Calculating the quote by multiplying the dimensions by the weight, and then dividing the product by a 100.
                 decimal quote = (dimensions * weight) / 100m; // Performing division using decimal values
 
                 //Alerting the customer that the package is too big for shipping, when its dimensions is greater than 50 (program ends).
                 //Otherwise, displaying quote in local currency
-                string result = dimensions > 50 ? "Package too big to be shipped via Package Express." : "Your estimated total for shipping this package is: CAD$" + quote + "\nThank you.";
+                string result = isTooBig ? "Package too big to be shipped via Package Express." : "\n\nYour estimated total for shipping this package is: CAD$" + quote + "\n\nThank you.";
                 Console.WriteLine(result);
                 Console.ReadLine();
             }
