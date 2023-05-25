@@ -37,19 +37,14 @@ namespace BranchingAssignment
                 //Calculate dimensions
                 int dimensions = width * heigth * length;
 
+                // Calculating the quote by multiplying the dimensions by the weight, and then dividing the product by a 100.
+                decimal quote = (dimensions * weight) / 100m; // Performing division using decimal values
+
                 //Alerting the customer that the package is too big for shipping, when its dimensions is greater than 50 (program ends).
-                if (dimensions > 50)
-                {
-                    Console.WriteLine("Package too big to be shipped via Package Express.");
-                    Console.ReadLine();
-                }
-                else
-                {
-                    //Calculate the quote, in local currency, by multiplying the dimensions by the weight, and then dividing the product by a 100.
-                    decimal quote = Convert.ToDecimal(dimensions * weight) / 100;
-                    Console.WriteLine("Your estimated total for shipping this package is: CAD$" + quote + "\nThank you.");
-                    Console.ReadLine();
-                }
+                //Otherwise, displaying quote in local currency
+                string result = dimensions > 50 ? "Package too big to be shipped via Package Express." : "Your estimated total for shipping this package is: CAD$" + quote + "\nThank you.";
+                Console.WriteLine(result);
+                Console.ReadLine();
             }
         }
     }
