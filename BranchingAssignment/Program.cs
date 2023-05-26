@@ -41,7 +41,7 @@ namespace BranchingAssignment
                 bool isTooBig = dimensions > 50;
 
                 // Calculating the quote by multiplying the dimensions by the weight, and then dividing the product by a 100.
-                decimal quote = (decimal)(dimensions * weight) / 100;
+                double quote = Convert.ToDouble(dimensions * weight) / 100;
 
                 //Alerting the customer that the package is too big for shipping, when its dimensions is greater than 50 (program ends).
                 //Otherwise, displaying quote in local currency

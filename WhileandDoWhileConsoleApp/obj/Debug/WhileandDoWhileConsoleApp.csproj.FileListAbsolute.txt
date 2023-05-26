@@ -1,0 +1,6 @@
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\WhileandDoWhileConsoleApp\bin\Debug\WhileandDoWhileConsoleApp.exe
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\WhileandDoWhileConsoleApp\bin\Debug\WhileandDoWhileConsoleApp.pdb
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\WhileandDoWhileConsoleApp\obj\Debug\WhileandDoWhileConsoleApp.csproj.AssemblyReference.cache
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\WhileandDoWhileConsoleApp\obj\Debug\WhileandDoWhileConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\WhileandDoWhileConsoleApp\obj\Debug\WhileandDoWhileConsoleApp.exe
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\WhileandDoWhileConsoleApp\obj\Debug\WhileandDoWhileConsoleApp.pdb
