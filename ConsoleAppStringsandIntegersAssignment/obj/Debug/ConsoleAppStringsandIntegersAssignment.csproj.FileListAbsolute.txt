@@ -1,0 +1,6 @@
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppStringsandIntegersAssignment\bin\Debug\ConsoleAppStringsandIntegersAssignment.exe
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppStringsandIntegersAssignment\bin\Debug\ConsoleAppStringsandIntegersAssignment.pdb
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppStringsandIntegersAssignment\obj\Debug\ConsoleAppStringsandIntegersAssignment.csproj.AssemblyReference.cache
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppStringsandIntegersAssignment\obj\Debug\ConsoleAppStringsandIntegersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppStringsandIntegersAssignment\obj\Debug\ConsoleAppStringsandIntegersAssignment.exe
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppStringsandIntegersAssignment\obj\Debug\ConsoleAppStringsandIntegersAssignment.pdb
