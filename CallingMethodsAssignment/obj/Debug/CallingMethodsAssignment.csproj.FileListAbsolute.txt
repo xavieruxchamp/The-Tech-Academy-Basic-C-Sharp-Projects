@@ -1,0 +1,6 @@
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsAssignment\obj\Debug\CallingMethodsAssignment.csproj.AssemblyReference.cache
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsAssignment\obj\Debug\CallingMethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsAssignment\bin\Debug\CallingMethodsAssignment.exe
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsAssignment\bin\Debug\CallingMethodsAssignment.pdb
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsAssignment\obj\Debug\CallingMethodsAssignment.exe
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsAssignment\obj\Debug\CallingMethodsAssignment.pdb
