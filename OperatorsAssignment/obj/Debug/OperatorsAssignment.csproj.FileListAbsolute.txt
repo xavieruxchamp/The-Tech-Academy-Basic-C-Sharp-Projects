@@ -1,0 +1,6 @@
+C:\Users\xavie.XAVIERUXCHAMP\source\repos\OperatorsAssignment\obj\Debug\OperatorsAssignment.csproj.AssemblyReference.cache
+C:\Users\xavie.XAVIERUXCHAMP\source\repos\OperatorsAssignment\obj\Debug\OperatorsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\xavie.XAVIERUXCHAMP\source\repos\OperatorsAssignment\bin\Debug\OperatorsAssignment.exe
+C:\Users\xavie.XAVIERUXCHAMP\source\repos\OperatorsAssignment\bin\Debug\OperatorsAssignment.pdb
+C:\Users\xavie.XAVIERUXCHAMP\source\repos\OperatorsAssignment\obj\Debug\OperatorsAssignment.exe
+C:\Users\xavie.XAVIERUXCHAMP\source\repos\OperatorsAssignment\obj\Debug\OperatorsAssignment.pdb
