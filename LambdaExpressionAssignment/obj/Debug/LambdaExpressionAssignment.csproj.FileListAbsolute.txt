@@ -1,0 +1,6 @@
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionAssignment\bin\Debug\LambdaExpressionAssignment.exe
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionAssignment\bin\Debug\LambdaExpressionAssignment.pdb
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionAssignment\obj\Debug\LambdaExpressionAssignment.csproj.AssemblyReference.cache
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionAssignment\obj\Debug\LambdaExpressionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionAssignment\obj\Debug\LambdaExpressionAssignment.exe
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionAssignment\obj\Debug\LambdaExpressionAssignment.pdb
