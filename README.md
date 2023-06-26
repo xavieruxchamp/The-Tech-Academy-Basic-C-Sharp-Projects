@@ -1,5 +1,4 @@
 # The-Tech-Academy-Basic-C-Sharp-Projects
-C# repository
 
 Here are some small projects I made using C# and .NET Framework
 
