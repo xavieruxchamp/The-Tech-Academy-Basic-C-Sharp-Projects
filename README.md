@@ -10,7 +10,7 @@ Here are some small projects I made using C# and .NET Framework
 
 
 ## Car Insurance
-For this project, I used the .NET Core framework. which enabled me create a new website, inclusing Controllers, Views and I made use of Models.
+For this project, I used the .NET Core framework. which enabled me create a new website, including Controllers, Views. I also worked with data Models.
 
 ## Students
 With this console application, I am follwing the Code First and DB Initialization concepts whereby I am updating or creating a database where one is not already available. This project required me to setup Entity Framework.
