@@ -1,0 +1,12 @@
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\FinalAssignmenModule12\obj\Debug\FinalAssignmenModule12.csproj.AssemblyReference.cache
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\FinalAssignmenModule12\obj\Debug\FinalAssignmenModule12.csproj.CoreCompileInputs.cache
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\FinalAssignmenModule12\bin\Debug\FinalAssignmenModule12.exe.config
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\FinalAssignmenModule12\bin\Debug\FinalAssignmenModule12.exe
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\FinalAssignmenModule12\bin\Debug\FinalAssignmenModule12.pdb
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\FinalAssignmenModule12\bin\Debug\EntityFramework.dll
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\FinalAssignmenModule12\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\FinalAssignmenModule12\bin\Debug\EntityFramework.xml
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\FinalAssignmenModule12\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\FinalAssignmenModule12\obj\Debug\FinalAssignmenModule12.csproj.CopyComplete
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\FinalAssignmenModule12\obj\Debug\FinalAssignmenModule12.exe
+C:\Users\xavier\xavieruxchamp\The-Tech-Academy-Basic-C-Sharp-Projects\FinalAssignmenModule12\obj\Debug\FinalAssignmenModule12.pdb
